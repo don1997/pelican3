@@ -1,6 +1,6 @@
 AUTHOR = 'Donald'
 SITENAME = 'blog'
-SITEURL = ''
+SITEURL = 'effervescent-maamoul-ee63a9.netlify.app'
 
 PATH = 'content'
 
